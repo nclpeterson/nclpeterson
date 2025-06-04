@@ -46,5 +46,5 @@ O projeto foca na encapsulamento de dados e na organização do código através
 * `Java`
 * `Console I/O` (para interação com o usuário)
 
-**Acessar Projeto:**
+**Acesse o Projeto:**
 [Repositório no GitHub](https://github.com/nclpeterson/Banking-management)
