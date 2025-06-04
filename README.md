@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncipeterson&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
-### 📚 Habilidades e Ferramentas
+### 📚 Ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
