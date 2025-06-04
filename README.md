@@ -25,3 +25,26 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   </p>
+
+  ---
+
+## ✨ Meus Projetos em Destaque
+
+### 🏦 Sistema de Gerenciamento Bancário
+
+Este projeto em Java simula as operações fundamentais de uma interface bancária simples, demonstrando o uso de **Programação Orientada a Objetos (POO)**. Ele permite aos usuários realizar as seguintes ações:
+
+* **Criação de Cliente:** Os usuários podem iniciar a simulação fornecendo seu nome, sobrenome e CPF.
+* **Consulta de Saldo:** Visualizar o saldo atual da conta.
+* **Depósitos:** Adicionar fundos à conta com validação de valor.
+* **Saques:** Retirar fundos da conta, incluindo validação de saldo suficiente e valor.
+* **Interface Interativa:** Utiliza o console para interação com o usuário, guiando-o pelas opções disponíveis.
+
+O projeto foca na encapsulamento de dados e na organização do código através da classe `Cliente`, que gerencia as propriedades e comportamentos bancários básicos.
+
+**Tecnologias Utilizadas:**
+* `Java`
+* `Console I/O` (para interação com o usuário)
+
+**Acessar Projeto:**
+[Repositório no GitHub](https://github.com/nclpeterson/Banking-management)
